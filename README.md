@@ -8,4 +8,4 @@ The user will be given a menu that lists all entree options with their correspon
 For example if a user would like 4 krabby patties, they would enter 4 on how many entrees they would like and enter the number "7" 4 indivsual times after.
 Once this is complete they are then asked for the sides, drinks and finnaly condiments, after all the information is given it will output the total price of all the items.
 
-Both files are necceary and the one what will be run is Krusty Krab
+Both files are necceary and the one that will be run is Krusty Krab
